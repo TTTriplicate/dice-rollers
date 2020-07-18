@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-
+'''
+a command-line die roller.
+mostly for practice with regex replacement.
+'''
 import re
 import sys
 import random

@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-
+'''
+generates D&D stat array.
+Uses 4d6 drop lowest method
+'''
 import random
 
 random.seed()
